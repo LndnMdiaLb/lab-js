@@ -1,0 +1,16 @@
+{
+  "name": "London Media Lab",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-copy": "0.0.2",
+    "gulp-inline-source": "^2.1.0",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-remove-empty-lines": "0.0.2",
+    "gulp-remove-html-comments": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-strip-comments": "^1.0.1"
+  }
+}
